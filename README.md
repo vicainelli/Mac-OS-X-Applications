@@ -6,10 +6,12 @@
 * [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 * [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html)
 
-## Chat
+## Chat / Messages
 
+* [Airmail](https://itunes.apple.com/br/app/airmail-2.5/id918858936?mt=12)
 * [Slack](https://itunes.apple.com/br/app/slack/id803453959?mt=12)
 * Skype
+* [Telegram Desktop](https://itunes.apple.com/br/app/telegram-desktop/id946399090?mt=12)
 
 
 ## Coding

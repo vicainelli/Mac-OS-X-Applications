@@ -13,6 +13,15 @@
 * Skype
 * [Telegram Desktop](https://itunes.apple.com/br/app/telegram-desktop/id946399090?mt=12)
 
+#### Slack Chats
+* designmobilebr
+* phpbrasil
+* frontendbrasil
+* supbra
+* braziljs
+* bcash
+* menuqr
+
 
 ## Coding
 * [GitHub Desktop](https://desktop.github.com/)

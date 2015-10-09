@@ -65,3 +65,4 @@
 * Gyazo
 * VLC
 * Instashare
+* Spectacle

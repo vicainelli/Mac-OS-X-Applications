@@ -10,6 +10,12 @@
 
 * [Airmail](https://itunes.apple.com/br/app/airmail-2.5/id918858936?mt=12)
 * [Slack](https://itunes.apple.com/br/app/slack/id803453959?mt=12)
+ * [https://frontendbrasil.slack.com/](https://frontendbrasil.slack.com/)
+ * [https://designmobilebr.slack.com/](https://designmobilebr.slack.com/)
+ * [https://braziljs.slack.com/](https://braziljs.slack.com/)
+ * [https://supbra.slack.com/](https://supbra.slack.com/)
+ * [https://wpbrasil.slack.com/](https://wpbrasil.slack.com/)
+ * [https://frontenddevelopers.slack.com](https://frontenddevelopers.slack.com)
 * Skype
 * [Telegram Desktop](https://itunes.apple.com/br/app/telegram-desktop/id946399090?mt=12)
 

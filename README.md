@@ -34,7 +34,7 @@
 * Virtual Box
 * Xcode
 * iTerm
-  *   OH MY SZH Theme: wedisagree
+  *   OH MY SZH Theme: cloud
 
 
 ## Design / interface

@@ -21,7 +21,6 @@
  - [https://agilidade.slack.com](https://agilidade.slack.com)
  - [https://uxsp.slack.com](https://uxsp.slack.com)
  - [https://ondetrabalhar.slack.com](https://ondetrabalhar.slack.com)
- - [https://ondetrabalhar.slack.com](https://ondetrabalhar.slack.com)
 - Skype
 - [Telegram Desktop](https://itunes.apple.com/br/app/telegram-desktop/id946399090?mt=12)
 

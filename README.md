@@ -26,45 +26,46 @@
 
 
 ## Coding
-* [GitHub Desktop](https://desktop.github.com/)
-* [Node.js](https://nodejs.org/en/)
-* Sublime Text
-* Vagrant
-* Virtual Box
-* Xcode
-* iTerm
-  *   OH MY SZH Theme: cloud
+- [GitHub Desktop](https://desktop.github.com/)
+- [Node.js](https://nodejs.org/en/)
+- Sublime Text
+- Vagrant
+- Virtual Box
+- Xcode
+- iTerm
+  -   OH MY SZH Theme: cloud
 
 
 ## Design / interface
 
-* [Sketch](http://bohemiancoding.com/static/download/sketch.zip)
+- [Sketch](http://bohemiancoding.com/static/download/sketch.zip)
+
 
 
 ## Docs
 
-* [Evernote](https://itunes.apple.com/us/app/evernote/id406056744?mt=12)
-* MacDown
+- [Evernote](https://itunes.apple.com/us/app/evernote/id406056744?mt=12)
+- MacDown
 
 
 ## Social
 
-* TweetDeck
+- TweetDeck
 
 
 ## Storage
 
-* [Dropbox](https://www.dropbox.com/en/downloading?os=mac)
-* [Google Drive](https://www.google.com/drive/download/)
+- [Dropbox](https://www.dropbox.com/en/downloading?os=mac)
+- [Google Drive](https://www.google.com/drive/download/)
 
 
 ## Utilities
 
-* [AppCleaner](http://www.freemacsoft.net/appcleaner/)
-* [Pocket](https://itunes.apple.com/app/pocket/id568494494?ls=1&mt=12)
-* uTorrent
-* PhoneClean
-* Gyazo
-* VLC
-* Instashare
-* Spectacle
+- [AppCleaner](http://www.freemacsoft.net/appcleaner/)
+- [Pocket](https://itunes.apple.com/app/pocket/id568494494?ls=1&mt=12)
+- uTorrent
+- PhoneClean
+- Gyazo
+- VLC
+- Instashare
+- Spectacle

@@ -3,19 +3,19 @@
 
 ## Browser
 
-- Firefox
-- Google Chrome
+- Firefox Developer
+- Brave
 
 ## Chat / Messages
 
-- Airmail
+- Spark
 - Slack
-- Skype
 - Telegram
 
 
 ## Coding
 
+- Xcode
 - Node.js
 - NPM
 - Composer
@@ -23,11 +23,9 @@
 - MySQl
 - Sequel Pro
 - Visual Studio Code
-- Postman
-- Xcode
-- iTerm
-  -   OH MY SZH Theme: cloud
-
+- 
+- Hyper.js
+	- OH MY SZH Theme: cloud
 
 ## Design
 
@@ -42,12 +40,7 @@
 
 ## Docs
 
-- MacDown
-
-
-## Social
-
-- TweetDeck
+- Notion
 
 
 ## Storage
@@ -58,11 +51,12 @@
 
 ## Utilities
 
+- Alfred
 - AppCleaner
 - Battery Helth 2
 - Dr. Cleaner
-- uTorrent
 - VLC
 - F.lux
+- [Timing](https://timingapp.com/)
 - Toggle Time Tracker
 - Todoist
